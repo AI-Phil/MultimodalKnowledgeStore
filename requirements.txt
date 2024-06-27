@@ -3,8 +3,10 @@ langchain-community
 langchain-google-vertexai
 #ragstack-ai-langchain>=1.2.0
 git+https://github.com/mieslep/ragstack-ai.git@knowledge_store/mime#subdirectory=libs/langchain
+#-e C:\Users\phil\git\ragstack-ai\libs\langchain
 #ragstack-ai-knowledge-store>=0.0.5
 git+https://github.com/mieslep/ragstack-ai.git@knowledge_store/mime#subdirectory=libs/knowledge-store/
+#-e C:\Users\phil\git\ragstack-ai\libs\knowledge-store
 pymupdf
 python-dotenv
 ipykernel
